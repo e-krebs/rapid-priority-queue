@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapidPriorityQueue", "PriorityQueue\RapidPriorityQueue.csproj", "{879C2041-F403-40C6-9C86-039D0852E9BB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{211A831A-D38D-41FB-B496-C3565A88007B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueue", "PriorityQueue\RapidPriorityQueue.csproj", "{CF4C8F11-E0D8-4AEA-A980-5476A2B0583D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{879C2041-F403-40C6-9C86-039D0852E9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{879C2041-F403-40C6-9C86-039D0852E9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{879C2041-F403-40C6-9C86-039D0852E9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{879C2041-F403-40C6-9C86-039D0852E9BB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{211A831A-D38D-41FB-B496-C3565A88007B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{211A831A-D38D-41FB-B496-C3565A88007B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{211A831A-D38D-41FB-B496-C3565A88007B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{211A831A-D38D-41FB-B496-C3565A88007B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4C8F11-E0D8-4AEA-A980-5476A2B0583D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4C8F11-E0D8-4AEA-A980-5476A2B0583D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4C8F11-E0D8-4AEA-A980-5476A2B0583D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4C8F11-E0D8-4AEA-A980-5476A2B0583D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

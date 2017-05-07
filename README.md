@@ -1,4 +1,8 @@
-![alt text](https://raw.githubusercontent.com/masterjeef/rapid-priority-queue/master/min-heap.png "Rapid Priority Queue")
+![alt text](./min-heap.png "Rapid Priority Queue")
+
+# dotnet Standard port
+
+This version of Rapid Priority Queue is the port of masterjeef's original [library](https://github.com/masterjeef/rapid-priority-queue)
 
 # Rapid Priority Queue
 
