@@ -18,9 +18,9 @@ You can read more about heaps here : https://en.wikipedia.org/wiki/Heap_(data_st
 
 ## Get the code
 
-To install Priority Queue For .Net, run the following command in the Package Manager Console
+To install Priority Queue For dotnet standard, run the following command in the Package Manager Console
 
-    Install-Package RapidPriorityQueue
+    Install-Package RapidPriorityQueue.Standard
 
 ## Usage
 
